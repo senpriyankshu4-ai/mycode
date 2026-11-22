@@ -1,11 +1,11 @@
 import java.util.*;
 class designation{
-    int count=0;
+    public static void main(String args[]){
+    }
+     int count=0;
     int employee;
     String designation;
     String desig[];
-    public static void main(String args[]){
-    }
     void input(){
         Scanner sc= new Scanner(System.in);
         System.out.println("enter the total no. of employees:");
